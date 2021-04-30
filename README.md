@@ -5,8 +5,7 @@
 ### 1. NMF (non-negative matrix factorization) based methods
      NMF factorizes the non-negative data matrix into two non-negative matrices.
 
- * 1.1 AAAI17 Multi-View Clustering via Deep Matrix Factorization [(matlab)](https://github.com/hdzhao/DMF_MVC)
-    - Deep Matrix Factorization is a variant of NMF.
+ * 1.1 ACM15 Robust capped norm nonnegative matrix factorization ([matlab](https://github.com/gaoghc/Nonnegative-Matrix-Factorization))
  
 ### 2. Graph based methods
      It contains two kinds of methods. The first kind is using a predefined graph (also resfer to the traditional spectral clustering), and performing post-processing spectral clustering or k-means. And the second kind is to learn the graph and the index matrix simultaneously. 
