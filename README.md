@@ -8,12 +8,13 @@
  * 1.1 ACM15 Robust capped norm nonnegative matrix factorization [(matlab)](https://github.com/gaoghc/Nonnegative-Matrix-Factorization)
 
  * 1.2 AAAI17 Local centroids structured non-negative matrix factorization [(matlab)](https://github.com/gaoghc/Nonnegative-Matrix-Factorization)
+
+ * 1.3 TKDD13 Robust Manifold Non-Negative Matrix Factorization [(matlab)](https://sites.google.com/site/feipingnie/publications)
  
 ### 2. Graph based methods
      It contains two kinds of methods. The first kind is using a predefined graph (also resfer to the traditional spectral clustering), and performing post-processing spectral clustering or k-means. And the second kind is to learn the graph and the index matrix simultaneously. 
      
- * 2.1 None
- 
+ * 2.1 SIGKDD14 Clustering and Projected Clustering with Adaptive Neighbors [(matlab)](https://sites.google.com/site/feipingnie/publications)
 
  ### 3. Self-representation based methods
      Self-representation means that each data sample is expressed by a linear combination of other samples in the same subspace.
