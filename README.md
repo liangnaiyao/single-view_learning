@@ -27,7 +27,9 @@
  
  ### 4. Least square regression methods
 
- * 4.1 NN18 Inter-class sparsity based discriminative least square regression [(matlab)](https://sites.google.com/view/jerry-wen-hit/publications)  
+ * 4.1 NN18 Inter-class sparsity based discriminative least square regression [(matlab)](https://sites.google.com/view/jerry-wen-hit/publications) 
+ 
+ * 4.2 IJCAI17 Semi-supervised Orthogonal Graph Embedding with Recursive Projections [(matlab)](https://github.com/HanyangLiu/SOGE) 
  
  ### 5. Tensor based methods
      The tensor is the generalization of the matrix concept. And the matrix case is a 2-order tensor.
